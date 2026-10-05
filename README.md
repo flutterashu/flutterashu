@@ -4,11 +4,8 @@
   <h3>Full-Stack Mobile & Web Developer | AI Automation Specialist</h3>
   <p>Building high-performance cross-platform apps, automated media pipelines, and rapid web experiences.</p>
 
-  <a href="https://wa.me/?text=Hi%20Ashish,%20I%20saw%20your%20GitHub%20profile%20and%20want%20to%20connect.">
+  <a href="https://wa.me/919667146563?text=Hi%20Ashish,%20I%20saw%20your%20GitHub%20profile%20and%20want%20to%20connect.">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/flutterashu">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
